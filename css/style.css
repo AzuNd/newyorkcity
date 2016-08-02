@@ -1,0 +1,91 @@
+/*Joleen styling starts*/ 
+
+
+/*Joleen styling ends - of course, you can add any styling in your css container*/
+
+
+/*Selena styling starts*/ 
+
+
+
+
+
+
+
+/*Selena styling ends - of course, you can add any styling in your css container*/
+
+
+/*Mari styling starts*/ 
+
+
+
+
+
+
+/*Mari styling ends - of course, you can add any styling in your css container*/
+
+
+/*Assane styling starts*/ 
+#green
+{
+    background-color: lightgreen;
+}
+
+#blue
+{
+    background-color: lightblue;
+}
+
+#yellow
+{
+   background-color: yellow; 
+}
+
+.taste
+{
+    margin-left: 29%;
+}
+
+#main-img /*p2 GALLERY styling begins*/
+{
+    height:92px;
+    width:200px;
+    right: 30%;
+  
+}
+
+ul img
+{
+    height: 30px;
+    width: 50px;
+    opacity: 5;
+    
+}
+
+#gallery 
+{
+    height: 240px;
+    width: 100%;
+}
+
+
+#gallery li
+{
+        display: inline-block;
+        position: relative;
+        top: 10px;
+        left: 1%;
+        height: 100%;
+        width: 10%;
+        margin-left: 15px;
+     
+}
+
+.change
+{
+    opacity:1;
+}
+
+
+
+/*Assane styling ends - of course, you can add any styling in your css container*/
